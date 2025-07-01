@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou **Jackson Sousa**!
 
 ## 🔍 Sobre mim:
-- 👀 Eu tenho interesse em **Java, Rust, Desenvolvimento Backend, Computação em Nuvem e Desenvolvimento Full Stack**.
+- 👀 Eu tenho interesse em **Java, Rust, Python, Desenvolvimento Backend, Computação em Nuvem e Desenvolvimento Full Stack**.
 - 🌱 Atualmente, estou aprendendo **Java (Spring Boot)** e **Rust**, com foco em construir aplicações escaláveis e sistemas backend.
 - 🚀 Estou buscando colaborar em **projetos open-source**, **sistemas backend** e **tecnologias em nuvem**.
 - 📫 Como me encontrar: **[jacksonsousa1001@gmail.com](mailto:jacksonsousa1001@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/jackson-psousa)** | **[Instagram](https://instagram.com/jacksonsovis)**.
