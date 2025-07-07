@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Jackson Sousa**!
+# 👋 Olá, sou **Jackson Sousa**!
 
 ## 🔍 Sobre mim:
 - 👀 Eu tenho interesse em **Java, Rust, Python, Desenvolvimento Backend, Computação em Nuvem e Desenvolvimento Full Stack**.
